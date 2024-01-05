@@ -16,7 +16,7 @@ https://github.com/j-a-y-e-s-h/ai-data-analytics/assets/75063311/fd07aba2-a9f9-4
 Clone the repository to get started:
 
 ```bash
-git clone https://github.com/j-a-y-e-s-h/ai-data-analytics
+git clone https://github.com/kamlesh-IY9/ai-data-analytics.git
 cd ai-data-analytics
 ```
 
