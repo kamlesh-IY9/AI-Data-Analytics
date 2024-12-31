@@ -3,10 +3,10 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 from openai import OpenAI, OpenAIError
-
+     
 client = OpenAI(api_key='your-api-key-here')
 import time
- 
+         
 # Replace with your OpenAI API key
 
 # Set the title and introduction
